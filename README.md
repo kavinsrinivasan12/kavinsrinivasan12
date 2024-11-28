@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @kavinsrinivasan12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Kavin S
+🎓 B.Tech Graduate from Mahendra Engineering College
+📚 Currently pursuing a Data Science course
+💡 Passionate about Artificial Intelligence, Machine Learning, and Python Development
+Projects 🚀
+Generative Smart Response System: Addressing suspicious transactions using RAG Architecture and LLM.
+Smart Attendance System: Face recognition with email integration powered by Deep Learning.
+Interests 🌟
+AI/ML Development
+Data Analysis & Automation
+Open-source Contributions
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
