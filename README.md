@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Kavin!  
 🌟 **Aspiring Data Professional | SQL | Data Science | Machine Learning | BI Tools Enthusiast**  
 
-🎓 **B.Tech in AI and Data Science** graduate from Tamil Nadu, India.  
+🎓 **B.Tech in Artificial Intelligence and Data Science** graduate from Tamil Nadu, India.  
 🔍 Skilled in SQL, Power BI, Tableau, Python, and Deep Learning.  
 🏆 Notable projects: **Intelligent Traffic System**, **Adventure Works Dashboards**, and **Electric Vehicle Data Analysis**.  
 📜 Certified in **Data Analytics and Visualization** (Accenture).  
