@@ -59,14 +59,6 @@ Analytical and results-driven professional with hands-on experience in **data an
 
 ---
 
-## 🏆 Certifications
-
-✅ **Data Analytics Job Simulation**  [View](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69e37b060674a6f30c15c711_1786099468764_completion_certificate.pd)
-✅ **SQL** | HackerRank | August 2026  
-✅ **Python for Data Science, AI & Development** | IBM | March 2024
-
----
-
 ## 🎓 Education
 
 **B.Tech in Artificial Intelligence and Data Science**  
