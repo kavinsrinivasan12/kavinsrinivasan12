@@ -45,14 +45,14 @@ Analytical and results-driven professional with hands-on experience in **data an
 - Delivered actionable insights on high-value customers and sales patterns
 
 ### **Bank Loan Management System**
-**SQL | Google BigQuery | Data Analysis** | [View on GitHub](#)
+**SQL | Google BigQuery | Data Analysis** | [View on GitHub](https://github.com/kavinsrinivasan12/Bank-Loan-Management-System.git)
 - Designed and deployed an **8-table relational banking database** in BigQuery with referential integrity
 - Conducted in-depth data analysis identifying loan default trends and dormant accounts
 - Leveraged CTEs, aggregate functions, and window functions for advanced querying
 - Delivered insights on over-leveraged customers and risk assessment
 
 ### **Intelligent Traffic Management System**
-**Python | Deep Learning | Computer Vision** | [View on GitHub](#)
+**Python | Deep Learning | Computer Vision**
 - Developed a smart traffic solution using YOLO and AlexNet for object detection and tracking
 - Built video-based traffic flow analysis with dynamic signal timing optimization
 - Created a user-friendly interface for real-time traffic monitoring and visualization
