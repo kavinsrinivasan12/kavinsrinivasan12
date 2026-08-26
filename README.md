@@ -38,7 +38,7 @@ Analytical and results-driven professional with hands-on experience in **data an
 ## 📊 Featured Projects
 
 ### **Adventure Works Analytics Dashboard** 
-**Power BI | DAX | Data Storytelling** | [View on GitHub](#)
+**Power BI | DAX | Data Storytelling** | [View on GitHub](https://github.com/kavinsrinivasan12/Adventure-Works-Power-BI.git)
 - Built an interactive **4-page Power BI dashboard** tracking KPIs: sales, revenue, profit, and returns
 - Designed regional performance comparisons and product-level trend analysis
 - Engineered calculated columns and advanced DAX measures for dynamic reporting
