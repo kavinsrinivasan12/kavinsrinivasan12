@@ -8,12 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://kavinsrinivasan12.github.io/"><img src="https://img.shields.io/badge/Portfolio-kavinsrinivasan12.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/kavinsrinivasan12"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:kavinsrinivasan24@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://kavinsrinivasan12.github.io/Source/Kavin_Data_Analyst_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-2EA44F?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
-</p>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-kavinsrinivasan12.github.io-0A66C2?style=for-the-badge)](https://kavinsrinivasan12.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavinsrinivasan12/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavinsrinivasan24@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-2EA44F?style=for-the-badge)](https://kavinsrinivasan12.github.io/Source/Kavin_Data_Analyst_Resume.pdf)
+
+</p>  
 ---
 
 ## 🎯 About Me
@@ -62,11 +63,11 @@ Currently targeting **Data Analyst**, **BI Developer** roles in **BFSI** and **e
 - Cleaned data in Python, queried spending by age, gender, subscription and discount in SQL, and segmented **3.9K customers** into New, Returning and Loyal.
 - Surfaced **233K** in revenue, with discounted purchases at **~43%** of revenue and only **27%** of customers subscribed, signalling room to grow subscriptions.
 
-> 📂 More repositories (Library Analytics Engine, Loan Default Prediction and others) are pinned below.
+> 📂 More repositories (Library Analytics Engine, Credit card transaction analysis and others) are pinned below.
 
 ## 💼 Experience
 
-**Data Science with AI Apprentice** · BDreamz Global Solutions · *Dec 2025 – Present*
+**Data Science with AI Apprentice** · BDreamz Global Solutions · *Oct 2025 – Present*
 Cleaning and transforming data with Excel, SQL and Python (Pandas), building Power BI dashboards with DAX and Power Query, and running EDA to surface trends and anomalies.
 
 **Associate Business Analyst** · ITOrizon India Pvt Ltd · *Jan – Mar 2025*
