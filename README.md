@@ -6,15 +6,14 @@
   <b>Data Analyst</b> · SQL · GCP BigQuery · Power BI · Python<br>
   📍 Bengaluru, India &nbsp;|&nbsp; 🟢 Open to work · Immediate joiner
 </p>
-
 <p align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kavinsrinivasan12.github.io-0A66C2?style=for-the-badge)](https://kavinsrinivasan12.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavinsrinivasan12/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavinsrinivasan24@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-2EA44F?style=for-the-badge)](https://kavinsrinivasan12.github.io/Source/Kavin_Data_Analyst_Resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge)](https://kavinsrinivasan12.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/kavinsrinivasan12/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:kavinsrinivasan24@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge)](https://kavinsrinivasan12.github.io/Source/Kavin_Data_Analyst_Resume.pdf)
 
-</p>  
+</p>
 ---
 
 ## 🎯 About Me
