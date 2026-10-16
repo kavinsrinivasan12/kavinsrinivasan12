@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Kavin 👋</h1>
 
+<h3 align="center">Numbers tell stories.<br>I'm the analyst who makes them sing.</h3>
+
 <p align="center">
-  <b>Data Analyst</b> · SQL · GCP BigQuery · Power BI · Python · Data Storytelling<br>
+  <b>Data Analyst</b> · SQL · GCP BigQuery · Power BI · Python<br>
   📍 Bengaluru, India &nbsp;|&nbsp; 🟢 Open to work · Immediate joiner
 </p>
 
@@ -16,9 +18,9 @@
 
 ## 🎯 About Me
 
-AI & Data Science graduate (B.Tech, CGPA 8.38) who turns messy datasets into clear stories teams can act on. I build end-to-end analytics: designing relational databases in **BigQuery**, writing **SQL** with CTEs and window functions, modeling star schemas, and shipping interactive **Power BI** dashboards backed by custom **DAX**.
+Data Analyst who turns messy datasets into clear stories teams can act on. I build end-to-end analytics: designing relational databases in **BigQuery**, writing advanced **SQL** (CTEs, window functions, multi-table joins), modeling star schemas, and shipping interactive **Power BI** dashboards powered by custom **DAX**. Currently applying this to real-world data as a Data Science with AI Apprentice at Besant Technologies. 
 
-Currently targeting **Data Analyst**, **BI Developer** and **SQL Developer** roles in **BFSI** and **e-commerce**.
+Currently targeting **Data Analyst**, **BI Developer** roles in **BFSI** and **e-commerce**.
 
 ## 🛠️ Toolkit
 
