@@ -7,12 +7,16 @@
   📍 Bengaluru, India &nbsp;|&nbsp; 🟢 Open to work · Immediate joiner
 </p>
 
-<p align="center">
-  <a href="https://kavinsrinivasan12.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/kavinsrinivasan12/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:kavinsrinivasan24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email"></a>
-  <a href="https://kavinsrinivasan12.github.io/Source/Kavin_Data_Analyst_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge" alt="Resume"></a>
-</p>
+<div align="center">
+
+<a href="https://kavinsrinivasan12.github.io/"><img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/kavinsrinivasan12/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+<a href="mailto:kavinsrinivasan24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email"></a>
+<a href="https://kavinsrinivasan12.github.io/Source/Kavin_Data_Analyst_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge" alt="Resume"></a>
+
+</div>
+
+---
 
 ## 🎯 About Me
 
